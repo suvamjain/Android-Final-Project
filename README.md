@@ -2,7 +2,7 @@
 
 A Music App
 
-Universal Android Music Player
+MUSIFY
 ==============================
 
 This sample shows how to implement an audio media app that works
@@ -10,7 +10,7 @@ across multiple form factors and provide a consistent user experience
 on Android phones.
 
 Project Group Members
-=======================
+--------------------------
 1. Rohaan Almeida (16BCE1052)
 2. Suvam Jain (16BCE1138)
 
@@ -28,12 +28,12 @@ This sample uses the Gradle build system. To build this project, use the
 
 Screenshots
 -----------
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871702.png)
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871707.png)
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871712.png)
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871716.png)
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871719.png)
-![alt text](https://github.com/Roal5236/AndroidFinalProject/blob/master/Screenshots/Screenshot_1523871722.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871702.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871707.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871712.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871716.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871719.png)
+![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871722.png)
 
 Support
 -------
