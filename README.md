@@ -42,7 +42,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
-https://github.com/Roal5236/UdacityNanoDegree/issues
+https://github.com/suvamjain/Android-Final-Project/issues
 
 
 License
