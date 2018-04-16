@@ -29,9 +29,7 @@ This sample uses the Gradle build system. To build this project, use the
 Screenshots
 -----------
 ![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871702.png)
-=================================================================================================================
 ![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871707.png)
-=================================================================================================================
 ![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871712.png)
 ![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871716.png)
 ![alt text](https://github.com/suvamjain/Android-Final-Project/blob/master/Screenshots/Screenshot_1523871719.png)
